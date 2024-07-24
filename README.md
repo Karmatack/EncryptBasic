@@ -2,7 +2,7 @@
 
 Este proyecto es una demostración de un encriptamiento básico desarrollado en HTML, CSS y JavaScript. Puedes probar la aplicación en el siguiente enlace:
 
-<a href="https://encrypt-basic.vercel.app" target="_blank">EncryptBasic</a>
+[EncryptBasic](https://encrypt-basic.vercel.app)
 
 ## Descripción
 
